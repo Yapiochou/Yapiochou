@@ -1,36 +1,47 @@
-#  Salut, moi c’est Yapiochou !
+# Hello, I’m Yapi ochou (incognito)!
 
-🎓 Étudiant en développement web & sécurité informatique  
-💻 Passionné par la conception de sites web dynamiques et la cybersécurité.
+🎓 Software Engineering Student | Passionate about Cybersecurity & Backend Development  
+🏙️ From Abidjan, Côte d’Ivoire 🇨🇮  
+---
+
+## ⚙️ Technical Skills
+
+- **Languages**: PHP, C, HTML, CSS, JavaScript
+- **Frameworks**: CodeIgniter (MVC architecture)
+- **Database**: MySQL
+- **Tools**: Git, GitHub, LocalTunnel, XAMPP
 
 ---
 
-##  Compétences principales
+## 🚀 Projects I’m proud of
 
-- **Langages :** PHP, C, HTML, CSS
-- **Frameworks :** CodeIgniter (création de sites web complets)
-- **Base de données :** MySQL
+### 🎧 [MusiqueWeb](https://github.com/Yapiochou/MusiqueWeb)  
+A web audio player built with HTML, CSS, and JavaScript  
+→ Playlist management, loop, playback speed, visual notifications, modern interface.
 
----
+### Résidence de la Paix  
+A hotel & restaurant management system (CodeIgniter + MySQL)  
+→ Room and table reservations, delivery management (PIZZAS O’Yofeh), and an admin panel.
 
-## 🚀 Projets dont je suis fier
-
-### [MusiqueWeb](https://github.com/Yapiochou/MusiqueWeb)
-Mon premier projet : un lecteur audio web simple et moderne, développé en HTML, CSS et JavaScript.  
-Il permet de lire jusqu’à 5 pistes audio locales, avec gestion de la playlist, contrôle du volume, lecture en boucle, vitesse personnalisée et notifications visuelles.
-
-###  Résidence de la Paix
-Application web de gestion pour une résidence, développée en PHP avec CodeIgniter et MySQL.
-
-###  Binomage
-Outil d’attribution de binômes du style parrain filleul, optimisé pour la simplicité et l’efficacité aussi développée en PHP avec CodeIgniter et MySQL
+### Binomage  
+A web tool for automatically assigning buddy pairs (CodeIgniter + MySQL)  
+→ Simple UI, photo management, random matching, reset features, and user management.
 
 ---
 
-## 🌐 Me retrouver
+## 📈 My Goals
+
+- Level up in **cybersecurity** (vulnerability analysis, critical systems)
+- Dive into **data science** and **AI**
+- Improve my **backend security** best practices
+- Contribute to open-source projects and grow with the tech community
+
+---
+
+## 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Philippe%20Ochou-blue?logo=linkedin)](https://www.linkedin.com/in/philippe-ochou-659192361?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
-*“Toujours prêt à relever de nouveaux défis et à apprendre de nouvelles choses !”*
+*"Always ready to take on new challenges, learn, innovate, and grow."*
