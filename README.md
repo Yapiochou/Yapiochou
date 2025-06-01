@@ -23,7 +23,7 @@ Il permet de lire jusqu’à 5 pistes audio locales, avec gestion de la playlist
 Application web de gestion pour une résidence, développée en PHP avec CodeIgniter et MySQL.
 
 ###  Binomage
-Outil d’attribution de binômes pour projets ou travaux pratiques, optimisé pour la simplicité et l’efficacité.
+Outil d’attribution de binômes du style parrain filleul, optimisé pour la simplicité et l’efficacité aussi développée en PHP avec CodeIgniter et MySQL
 
 ---
 
