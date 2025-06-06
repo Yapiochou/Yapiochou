@@ -6,22 +6,14 @@
 
 ## ⚙️ Technical Skills
 
-- **Languages**: PHP, C, HTML, CSS, JavaScript
-- **Frameworks**: CodeIgniter (MVC architecture)
+- **Languages**: PHP, C, HTML, CSS
+- **Frameworks**: CodeIgniter, Bootstrap
 - **Database**: MySQL
-- **Tools**: Git, GitHub, LocalTunnel, XAMPP
+- **Tools**: Git, GitHub, LocalTunnel, WAMPServer
 
 ---
 
 ## 🚀 Projects I’m proud of
-
-### 🎧 [MusiqueWeb](https://github.com/Yapiochou/MusiqueWeb)  
-A web audio player built with HTML, CSS, and JavaScript  
-→ Playlist management, loop, playback speed, visual notifications, modern interface.
-
-### Résidence de la Paix  
-A hotel & restaurant management system (CodeIgniter + MySQL)  
-→ Room and table reservations, delivery management (PIZZAS O’Yofeh), and an admin panel.
 
 ### Binomage  
 A web tool for automatically assigning buddy pairs (CodeIgniter + MySQL)  
